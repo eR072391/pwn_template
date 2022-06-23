@@ -66,4 +66,3 @@ def main():
     shell_exploit_x64()
     #shell_exploit_x86
     
-    
